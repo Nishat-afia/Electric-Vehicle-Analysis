@@ -1,13 +1,13 @@
 # Electric-Vehicle-Analysis
-Problem Statement
+Problem Statement:
 AtliQ Motor is the American Multinational Automative Company. The company produces mainly 2-wheelers and 4-wheelers vehicle. AtliQ Motors entered in the electric vehicle sector as e-vehicle is one step ahead in controlling the carbon emission.
 
 After years of dominating the locomotive industry globally, AtliQ Motors is trying to entered into the Indian market by launching its E-Vehicles especially in 2-wheelers, 4-wheelers sectors, for that we have to study the e-vehicles market in India.
 
-Solution
+Solution :
 In this project we mainly find out: What are the ideal states for setup a plant? What are the required modifications for e-vehicles and what are the customer adoption rates year by year? What are the state govt. & central govt. Scheme to advance in this sector as environment is the global concern for all. After that we will analyse how AtliQ Motors should carry out its operation in fully nourishing the Indian e-vehicle market.
 
-Tools Used
+Tools Used :
 Microsoft Power BI, Power Query Editor, DAX
 
 Steps Followed in this project
